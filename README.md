@@ -1,3 +1,39 @@
+## rtabmap_ros (humble) - 0.21.9-1
+
+The packages in the `rtabmap_ros` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble rtabmap_ros --override-release-repository-push-url git@github.com:revyos-ros/rtabmap_ros-release.git` on `Sat, 14 Dec 2024 07:07:47 -0000`
+
+These packages were released:
+- `rtabmap_conversions`
+- `rtabmap_demos`
+- `rtabmap_examples`
+- `rtabmap_launch`
+- `rtabmap_msgs`
+- `rtabmap_odom`
+- `rtabmap_python`
+- `rtabmap_ros`
+- `rtabmap_rviz_plugins`
+- `rtabmap_slam`
+- `rtabmap_sync`
+- `rtabmap_util`
+- `rtabmap_viz`
+
+Version of package(s) in repository `rtabmap_ros`:
+
+- upstream repository: https://github.com/introlab/rtabmap_ros.git
+- release repository: https://github.com/revyos-ros/rtabmap_ros-release.git
+- rosdistro version: `0.21.9-1`
+- old version: `0.21.5-1`
+- new version: `0.21.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rtabmap_ros (iron) - 0.21.5-1
 
 The packages in the `rtabmap_ros` repository were released into the `iron` distro by running `/usr/bin/bloom-release --ros-distro iron rtabmap_ros` on `Mon, 01 Jul 2024 03:17:06 -0000`
